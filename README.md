@@ -18,4 +18,6 @@ Success Factors
 Future of Apple Inc
 and major takeaways from this study
 
-I welcome all to have a look at it and make changes if necessary
+I welcome all to have a look at it and make changes if necessary.
+
+It is for public use with no copyright or license needed.
